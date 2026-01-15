@@ -1,7 +1,7 @@
 name: streamyard_livestream
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: "https://streamyard.com"
+homepage: "https://github.com/ctkqiang/streamyard_livestream"
 
 environment:
   sdk: ^3.9.2
