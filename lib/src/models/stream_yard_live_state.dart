@@ -1,1 +1,1 @@
-enum StreamYardLiveState { idlle, active, paused, stopped, error, unknown }
+enum StreamYardLiveState { idle, active, paused, stopped, error, unknown }

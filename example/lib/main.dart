@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
       home: StreamYardLiveWidget(
-        streamId: 'xxx',
+        streamId: 'sD8hKcKaytU6',
         streamTitle: 'xxx',
         user: StreamYardUser(firstName: '', lastName: ''),
       ),
