@@ -1,5 +1,5 @@
 name: streamyard_livestream
-description: "A new Flutter package project."
+description: "A Flutter project that integrates StreamYard live-streaming capabilities."
 version: 0.0.1
 homepage: "https://github.com/ctkqiang/streamyard_livestream"
 
